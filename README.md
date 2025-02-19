@@ -82,3 +82,6 @@ I'm a **self-taught developer** who enjoys learning and trying new things in my 
   - E-mail: **my@ngix007.xyz**<br>
 </p>
 
+> # 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙄𝙉𝙂 𝘼𝙉𝘿 𝙏𝙀𝘾𝙃𝙉𝙊𝙇𝙊𝙂𝙔 𝙄𝙉𝙏𝙐𝙎𝙄𝘼𝙎𝙏 :heart:
+
+
