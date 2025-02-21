@@ -71,6 +71,8 @@ I'm a **self-taught developer** who enjoys learning and trying new things in my 
 
 # Contact
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/606081486877229056?showDisplayName=false&animated=false&hideClan=true&hideTimestamp=false&theme=dark)](https://discord.com/users/606081486877229056)
+
 </div>
 
 
