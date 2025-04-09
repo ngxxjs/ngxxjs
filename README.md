@@ -71,7 +71,7 @@ I'm a **self-taught developer** who enjoys learning and trying new things in my 
 
 # Contact
 
-[![Discord Presence](https://discord.c99.nl/widget/theme-2/606081486877229056.png)
+[Discord Presence](https://discord.c99.nl/widget/theme-2/606081486877229056.png)
 
 </div>
 
