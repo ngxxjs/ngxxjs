@@ -68,7 +68,7 @@ I'm a **self-taught developer** who enjoys learning and trying new things in my 
 
 <p align="left">
 
-  - Current Project: **[Uploader](https://upload.spgunk.eu.org)**<br>
+  - Current Project: **[Uploader](https://spgunk.eu.org)**<br>
   - Discord: **ngx.js**<br>
   - E-mail: **my@ngix007.xyz**<br>
 </p>
